@@ -1,0 +1,14 @@
+# Java build artifacts
+*.class
+build/
+out/
+target/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
