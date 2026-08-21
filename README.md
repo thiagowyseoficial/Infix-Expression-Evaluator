@@ -33,6 +33,5 @@ Os projetos deste repositório foram desenvolvidos durante a graduação em Ciê
 ## Contato
 
 - **Nome:** Thiago Wyse
-- **LinkedIn:** espaço reservado para o perfil profissional
-- **GitHub:** espaço reservado para o perfil de projetos
-
+- **LinkedIn:** [linkedin.com/in/thiago-wyse](https://www.linkedin.com/in/thiago-wyse)
+- **GitHub:** [github.com/thiagowyseoficial](https://github.com/thiagowyseoficial/)
